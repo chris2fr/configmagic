@@ -35,4 +35,4 @@ It would be nice to have a MKDOCS webhook as well perhaps.
 
 I, Chris Mann, manage my personal information here:
 
-[https://pi.mann.fr](https://pi.mann.fr)
+[redacted]
