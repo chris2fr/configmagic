@@ -17,4 +17,5 @@ My thought to start this project is to have a Git Repository for each configurat
 The configMagic Repository is here:  
 [https://github.com/chris2fr/configmagic/](https://github.com/chris2fr/configmagic/)
 
-I'd like to start with MKDOCS mirrored on NetLify. 
+Deploying MKDOCS to Ikoula server with webhook. 
+
