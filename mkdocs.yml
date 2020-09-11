@@ -2,7 +2,7 @@ site_name: ConfigMargic.com
 repo_url: https://github.com/chris2fr/configmagic
 edit_uri: edit/master/docs/
 markdown_extensions:
-    - pymdownx.tasklist
+#    - pymdownx.tasklist
     - toc:
         permalink: True
         toc_depth: 3
