@@ -1,0 +1,29 @@
+site_name: ConfigMargic.com
+repo_url: https://github.com/chris2fr/configmagic
+edit_uri: edit/master/docs/
+markdown_extensions:
+    - pymdownx.tasklist
+    - toc:
+        permalink: True
+        toc_depth: 3
+    #- smarty
+    #- sane_lists
+    
+theme:
+    name: mkdocs
+    #name: readthedocs
+    #name: material
+    navigation_depth: 3
+    #nav_style: dark
+    #custom_dir: mannmkdocstheme/
+    prev_next_buttons_location: both
+    collapse_navigation: true
+    #features:
+    #    - tabs
+
+extra_css:
+    - css/custom.css
+
+docs_dir: ./
+
+site_dir: ./site
