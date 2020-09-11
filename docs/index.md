@@ -42,7 +42,7 @@ I, Chris Mann, manage my personal information here:
 Managed a few things that are documented here:  
 https://www.mann.fr/en/company/extranet/mmuzslak/
 
-### Volunteer proposed work for the ACParis.org
+### Volunteer Proposed Work for the ACParis.org
 
 Documentation here:  
 https://www.mann.fr/en/company/extranet/acparis-org/
