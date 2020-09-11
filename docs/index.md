@@ -35,7 +35,7 @@ It would be nice to have a MKDOCS webhook as well perhaps.
 I, Chris Mann, manage my personal information here:  
 [https://pi.mann.fr](https://pi.mann.fr)
 
-### CLient Michel Muszlak
+### Client Michel Muszlak
 
 Managed a few things that are documented here:  
 [https://www.mann.fr/en/company/extranet/mmuzslak/](https://www.mann.fr/en/company/extranet/mmuzslak/)
