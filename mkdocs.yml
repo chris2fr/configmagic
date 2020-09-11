@@ -24,6 +24,6 @@ theme:
 extra_css:
     - css/custom.css
 
-docs_dir: ../docs
+docs_dir: ./
 
-site_dir: ../site
+site_dir: ./site
