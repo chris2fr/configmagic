@@ -25,16 +25,14 @@ These are configurations managed in some way.
 
 ### LesGrandsVoisins.com
 
-The LesGrandsVoisins project is managed in the following repository.
-
-[https://gitlab.com/lesgrandsvoisins/lgv/](https://gitlab.com/lesgrandsvoisins/lgv/)
+The LesGrandsVoisins project is managed in the following repository:  
+[https://gitlab.com/lesgrandsvoisins/lgv/](https://gitlab.com/lesgrandsvoisins/lgv/)  
 
 It would be nice to have a MKDOCS webhook as well perhaps.
 
 ### Chris' Life
 
-I, Chris Mann, manage my personal information here:
-
+I, Chris Mann, manage my personal information here:  
 [https://pi.mann.fr](https://pi.mann.fr)
 
 ### CLient Michel Muszlak
