@@ -1,8 +1,8 @@
-site_name: ConfigMargic.com
+site_name: ConfigMagic.com
 repo_url: https://github.com/chris2fr/configmagic
 edit_uri: edit/master/docs/
 markdown_extensions:
-#    - pymdownx.tasklist
+    - pymdownx.tasklist
     - toc:
         permalink: True
         toc_depth: 3
@@ -24,6 +24,6 @@ theme:
 extra_css:
     - css/custom.css
 
-docs_dir: ./
+docs_dir: ../docs
 
-site_dir: ./site
+site_dir: ../site
