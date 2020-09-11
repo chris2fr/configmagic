@@ -17,5 +17,10 @@ My thought to start this project is to have a Git Repository for each configurat
 The configMagic Repository is here:  
 [https://github.com/chris2fr/configmagic/](https://github.com/chris2fr/configmagic/)
 
-Deploying MKDOCS to Ikoula server with webhook. 
+Deployed MKDOCS to Ikoula server with webhook. 
 
+## Hosted Configurations
+
+### LesGrandsVoisins.com
+
+[https://gitlab.com/lesgrandsvoisins/lgv/](https://gitlab.com/lesgrandsvoisins/lgv/)
