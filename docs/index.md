@@ -14,7 +14,7 @@ I personally am not exactly sure how to o this, but my feeling is that as long a
 
 My thought to start this project is to have a Git Repository for each configuration grouping under ConfigMagic.com in addition to the core Git repository for ConfigMagic itself. For now, I will both put the common resources for ConfigMagic groupings and the congiuration of ConfigMagic.com itself in the same repositry (although, the config of ConfigMagic could be in its own Git Repository). This is based on covnention and less fancy tooling.
 
-The configMagic Repository is here:  
+The ConfigMagic repository is here:  
 [https://github.com/chris2fr/configmagic/](https://github.com/chris2fr/configmagic/)
 
 Deployed MKDOCS to Ikoula server with webhook. Deployment tested.
