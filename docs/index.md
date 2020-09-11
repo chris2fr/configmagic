@@ -30,3 +30,9 @@ The LesGrandsVoisins project is managed in the following repository.
 [https://gitlab.com/lesgrandsvoisins/lgv/](https://gitlab.com/lesgrandsvoisins/lgv/)
 
 It would be nice to have a MKDOCS webhook as well perhaps.
+
+### Chris' Life
+
+I, Chris Mann, manage my personal information here:
+
+[https://pi.mann.fr](https://pi.mann.fr)
