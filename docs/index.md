@@ -40,9 +40,9 @@ I, Chris Mann, manage my personal information here:
 ### CLient Michel Muszlak
 
 Managed a few things that are documented here:  
-https://www.mann.fr/en/company/extranet/mmuzslak/
+[https://www.mann.fr/en/company/extranet/mmuzslak/](https://www.mann.fr/en/company/extranet/mmuzslak/)
 
 ### Volunteer Proposed Work for the ACParis.org
 
 Documentation here:  
-https://www.mann.fr/en/company/extranet/acparis-org/
+[https://www.mann.fr/en/company/extranet/acparis-org/](https://www.mann.fr/en/company/extranet/acparis-org/)
