@@ -2,7 +2,7 @@
 
 ConfigMagic.com is a website for configuration management of all kinds.
 
-Now where did I put that? What was that password again? Did I do that? ConfigMagic tries to answer these questions we ask ourselves, our workmates, our coworkers and more. Abitions of this website are to :
+Now where did I put that? What was that password again? Did I do that? ConfigMagic tries to answer these questions we ask ourselves, our providers, our coworkers and more. Abitions of this website are to :
 
 1. Document the architecture of deployed computer software and systems
 2. Document where the passwords are and how to get to them (without storing the passwords or credentials themselves)
